@@ -1,101 +1,100 @@
 #EXTM3U
-#EXTINF:0,31Kanal_38_39.m3u8
-https://sc.id-tv.kz/31Kanal_38_39.m3u8
-#EXTINF:0,1080.m3u8
-http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
-#EXTINF:0,A1_1080p_5000kbps.m3u8
-http://46.34.209.243/btv/SWM/A1/A1_1080p_5000kbps.m3u8
-#EXTINF:0,A2_38_39.m3u8
-https://sc.id-tv.kz/A2_38_39.m3u8
-#EXTINF:0,Animal_planet_576p_2000kbps.m3u8
-http://46.34.209.243/btv/SWM/Animal_planet/Animal_planet_576p_2000kbps.m3u8
-#EXTINF:0,Cinema_38_39.m3u8
-https://sc.id-tv.kz/Cinema_38_39.m3u8
-#EXTINF:0,CINEMA_576p_2000kbps.m3u8
-http://46.34.209.243/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
-#EXTINF:0,FOX_1080p_5000kbps.m3u8
-http://46.34.209.243/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
-#EXTINF:0,index.m3u8
-http://rosshow.gcdn.co/streams/1410_287/1080n/index.m3u8
-#EXTINF:0,Hollywood_576p_2000kbps.m3u8
-http://46.34.209.243/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
-#EXTINF:0,index.m3u8
-http://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
-#EXTINF:0,playlist.m3u8
-http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
-#EXTINF:0,index_600_av-p.m3u8
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:0,playlist.m3u8
-http://188.40.68.167/russia/mtv_dance/playlist.m3u8
-#EXTINF:0,91.192.168.242:9091
-http://91.192.168.242:9091
-#EXTINF:0,playlist.m3u8
-http://russia2.livetv.az/russia/paramount/playlist.m3u8
-#EXTINF:0,Paramount_Comedy_576p_2000kbps.m3u8
-http://46.34.209.243/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
-#EXTINF:0,index.m3u8
-http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
-#EXTINF:0,playlist.m3u8
-http://188.40.68.167/russia/vip_comedy/playlist.m3u8
-#EXTINF:0,Dom_Kino_576p_2000kbps.m3u8
-http://46.34.209.243/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
-#EXTINF:0,index.m3u8
-http://31.128.159.41:8080/domashniy/index.m3u8
-#EXTINF:0,Eurokino_576p_2000kbps.m3u8
-http://46.34.209.243/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
-#EXTINF:0,playlist.m3u8
-http://russia2.livetv.az/russia/komediya/playlist.m3u8
-#EXTINF:0,chunklist_b1600000.m3u8
-http://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:0,index.m3u8
-http://31.128.159.41:8080/sts/index.m3u8
-#EXTINF:0,STS_38_39.m3u8
-https://sc.id-tv.kz/STS_38_39.m3u8
-#EXTINF:0,index.m3u8
-http://31.128.159.41:8080/tnt/index.m3u8
-#EXTINF:0,TNT_576p_2000kbps.m3u8
-http://46.34.209.243/btv/SWM/TNT/TNT_576p_2000kbps.m3u8
-#EXTINF:0,tnt4_36_37.m3u8
-https://sc.id-tv.kz/tnt4_36_37.m3u8
-#EXTINF:0,TNT4_576p_2000kbps.m3u8
-http://46.34.209.243/btv/SWM/TNT4/TNT4_576p_2000kbps.m3u8
-#EXTINF:0,chanelHD1080
-rtmp://193.169.178.29/podsekaiTV/chanelHD1080
-#EXTINF:0,5346.m3u8
-http://cdnhls.goodgame.ru/hls/5346.m3u8
-#EXTINF:0,channel.php
-http://brodilo.tv/channel.php
-#EXTINF:0,157239.m3u8
-http://cdnhls.goodgame.ru/hls/157239.m3u8
-#EXTINF:0,166446.m3u8
-http://cdnhls.goodgame.ru/hls/166446.m3u8
-#EXTINF:0,happyradio.m3u8
-https://live.prd.dlive.tv/hls/live/happyradio.m3u8
-#EXTINF:0,playlist.m3u8
-http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
-#EXTINF:0,mhtvradio.m3u8
-https://live.prd.dlive.tv/hls/live/mhtvradio.m3u8
-#EXTINF:0,180960.m3u8
-http://cdnhls.goodgame.ru/hls/180960.m3u8
-#EXTINF:0,index.m3u8
-https://stream.funcontent.ru/hls/ritsa_tv/index.m3u8
-#EXTINF:0,andyx7.m3u8
-https://live.prd.dlive.tv/hls/live/andyx7.m3u8
-#EXTINF:0,ch1.m3u8
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:0,186021.m3u8
-http://cdnhls.goodgame.ru/hls/186021.m3u8
-#EXTINF:0,180509.m3u8
-http://cdnhls.goodgame.ru/hls/180509.m3u8
-#EXTINF:0,playlist.m3u8
-http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-#EXTINF:0,180805.m3u8
-http://cdnhls.goodgame.ru/hls/180805.m3u8
-#EXTINF:0,playlist.m3u8
-http://mauonline.ru:1935/live/onetvm/udp.stream_360p/playlist.m3u8
-#EXTINF:0,playlist.m3u8
-http://teotv.ru:1935/live/site/playlist.m3u8
-#EXTINF:0,erostv.sdp
-rtmp://erostv.cdnvideo.ru/erostv/erostv.sdp
-#EXTINF:0,45.14.38.4:15000
+#EXTINF:-1,Камин
 http://45.14.38.4:15000
+#EXTINF:-1,31 канал
+https://sc.id-tv.kz/31Kanal_38_39.m3u8
+#EXTINF:-1,360 HD
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:-1,Amedia 1 HD
+http://46.34.209.243/btv/SWM/A1/A1_1080p_5000kbps.m3u8
+#EXTINF:-1,Amedia 2
+https://sc.id-tv.kz/A2_38_39.m3u8
+#EXTINF:-1,Animal Planet
+http://46.34.209.243/btv/SWM/Animal_planet/Animal_planet_576p_2000kbps.m3u8
+https://sc.id-tv.kz/Cinema_38_39.m3u8
+#EXTINF:-1,Cinema
+http://46.34.209.243/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
+#EXTINF:-1,Fox HD
+http://46.34.209.243/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
+#EXTINF:-1,HITV HD
+http://rosshow.gcdn.co/streams/1410_287/1080n/index.m3u8
+#EXTINF:-1,Hollywood
+http://46.34.209.243/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
+#EXTINF:-1,INRATING TV HD
+http://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
+#EXTINF:-1,KINO 24
+http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1,M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,MTV 90s
+http://188.40.68.167/russia/mtv_dance/playlist.m3u8
+#EXTINF:-1,Ocean TV
+http://91.192.168.242:9091
+#EXTINF:-1,Paramount Channel
+http://russia2.livetv.az/russia/paramount/playlist.m3u8
+#EXTINF:-1,Paramount Comedy
+http://46.34.209.243/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
+#EXTINF:-1,Travel + Adventure HD
+http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
+#EXTINF:-1,VIP Comedy HD
+http://188.40.68.167/russia/vip_comedy/playlist.m3u8
+#EXTINF:-1,Дом Кино
+http://46.34.209.243/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
+#EXTINF:-1,Домашний
+http://31.128.159.41:8080/domashniy/index.m3u8
+#EXTINF:-1,Еврокино
+http://46.34.209.243/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
+#EXTINF:-1,Комедия
+http://russia2.livetv.az/russia/komediya/playlist.m3u8
+#EXTINF:-1,Моя Планета
+http://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,СТС
+http://31.128.159.41:8080/sts/index.m3u8
+#EXTINF:-1,СТС International
+https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1,ТНТ
+http://31.128.159.41:8080/tnt/index.m3u8
+#EXTINF:-1,ТНТ Int.
+http://46.34.209.243/btv/SWM/TNT/TNT_576p_2000kbps.m3u8
+#EXTINF:-1,ТНТ4 Int.
+https://sc.id-tv.kz/tnt4_36_37.m3u8
+#EXTINF:-1,ТНТ4 Int.
+http://46.34.209.243/btv/SWM/TNT4/TNT4_576p_2000kbps.m3u8
+#EXTINF:-1,555 Hunt Fishing TV HD
+rtmp://193.169.178.29/podsekaiTV/chanelHD1080
+#EXTINF:-1,Akudji TV
+http://cdnhls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Brodilo TV HD
+http://brodilo.tv/channel.php
+#EXTINF:-1,FAN HD
+http://cdnhls.goodgame.ru/hls/157239.m3u8
+#EXTINF:-1,Filiza TV
+http://cdnhls.goodgame.ru/hls/166446.m3u8
+#EXTINF:-1,Happy Radio
+https://live.prd.dlive.tv/hls/live/happyradio.m3u8
+#EXTINF:-1,Millennium TV HD
+http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+#EXTINF:-1,Music History TV
+https://live.prd.dlive.tv/hls/live/mhtvradio.m3u8
+#EXTINF:-1,PZN Stream
+http://cdnhls.goodgame.ru/hls/180960.m3u8
+#EXTINF:-1,RITSA TV
+https://stream.funcontent.ru/hls/ritsa_tv/index.m3u8
+#EXTINF:-1,Retro Dance 90s
+https://live.prd.dlive.tv/hls/live/andyx7.m3u8
+#EXTINF:-1,TV Pro
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1,TV Series
+http://cdnhls.goodgame.ru/hls/186021.m3u8
+#EXTINF:-1,Techno Dance
+http://cdnhls.goodgame.ru/hls/180509.m3u8
+#EXTINF:-1,Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1,VIVA
+http://cdnhls.goodgame.ru/hls/180805.m3u8
+#EXTINF:-1,Первый Мытищинский
+http://mauonline.ru:1935/live/onetvm/udp.stream_360p/playlist.m3u8
+#EXTINF:-1,Тео ТВ
+http://teotv.ru:1935/live/site/playlist.m3u8
+#EXTINF:-1,Эрос ТВ/TV 1000 (Волгоград)
+rtmp://erostv.cdnvideo.ru/erostv/erostv.sdp
